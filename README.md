@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi, I'm Candy 🍬
 
-<!--
-**csndylim/csndylim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&ensp; 💻&ensp; Low-tier CS student in 🇸🇬
 
-Here are some ideas to get you started:
+&ensp; 🚀&ensp; Want to be a **Solutions Architect**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+Need to update hahah
+
+&ensp; Lang&ensp; 
+<code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+<code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
+
+&ensp; Front&ensp;
+<code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+<code><img width="30" height="30" src="https://emojis.slackmojis.com/emojis/images/1643514489/4730/nextjs.jpeg?1643514489"></code>
+
+&ensp; Back&ensp;
+<code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+
+
+
+
+## Most Used Languages
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csndylim&show_icons=true&locale=en&layout=compact"/>
+
+
