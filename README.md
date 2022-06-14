@@ -25,6 +25,7 @@ Need to update hahah
 
 
 ## Most Used Languages
+I am a Python developer but Python is not listed here. 😂
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csndylim&show_icons=true&locale=en&layout=compact"/>
 
 
