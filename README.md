@@ -5,8 +5,6 @@
 &ensp; 🚀&ensp; Want to be a **Software Developer**
 
 ## Most Used Languages
-<br/>
-<br/>&ensp;
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csndylim&show_icons=true&locale=en&layout=compact"/>
 
 
